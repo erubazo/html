@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <![endif]-->
+    <title>Free Responsive Photography Template</title>
+    <!-- BOOTSTRAP CORE STYLE  -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+    <!-- FONT AWESOME ICON STYLE  -->
+    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <!-- PRETTYPHOTO STYLE  -->
+    <link href="assets/css/prettyPhoto.css" rel="stylesheet" />
+    <!-- CUSTOM STYLE CSS -->
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <!-- GOOGLE FONTS -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Expletus+Sans:400,700italic' rel='stylesheet' type='text/css' />
+</head>
+<body>
+  <div id="header" >
+        <div class="container" >
+       <div class="row">
+           <div class="col-md-4 logo-div"  >
+               <div class="logo-inner">
+                   <div class="logo-name">
+                   <a href="index.html"  >
+ <span > Barak Elbaz </span>
+                   <small >Pesonal website</small>
+                       </a>
+                       </div>
+                   <br />
+                   <div class="links-home">
+                        <a href="index.html"  >Home  /</a>
+                    <a href="about.html"  >About /</a>
+                    <a href="gallery.html" >Gallery /</a>
+                   <a href="contact.html"  >Contact </a>
+                   </div>
+                  
+               </div>
+
+           </div>
+           <div class="col-md-8 header-text-top " >
+                <strong>About: </strong><br />
+				My name is Barak Elbaz, i am 29 years old.<br>
+				MY hobbies are photography, anime and manga.<br>
+               
+			   <a href="about.html"  >read more..</a>
+           </div>
+       </div>
+   </div>
+    </div>   
+    <!--END HEADER SECTION-->
+   <div class="info-sec" >
+        <div class="container">
+       <div class="row">
+<div class="col-md-10">
+    Email : Erubazo@gmail.com &nbsp;  &nbsp; Call: +972-50-333-5231
+</div>
+           <div class="col-md-2">
+               <div class="social-link">
+                     <a href="https://www.facebook.com/BarakElbazPhotography"  ><i class="fa fa-facebook fa-2x"></i></a> 
+               <a href="https://www.linkedin.com/in/barak-elbaz-260338218/"><i class="fa fa-linkedin fa-2x"></i></a>  
+               </div>
+              
+</div>
+
+       </div>
+            </div>
+       </div>
+     <!--END INFO SECTION-->
+     
+<div>
+<div class="col-md-6 div-one">
+     <h2 > <i>Barak Elbaz</i>
+         </h2>
+    </div>
+<div class="col-md-6 div-two"  >
+     <h2 class="h2-one" >Explore
+         </h2>
+     <h2 class="h2-two">
+          my protfolio</h2>
+    <br />
+    <a href="gallery.html" class="btn btn-info btn-lg" >ENTER NOW</a>
+
+
+</div>
+    </div>
+    <!--END HOME PAGE SECTION-->
+     <div class="footer-sec" style="margin-top:0px;" >
+        <div class="container" >
+       <div class="row">
+           <div class="col-md-12 foo-inner" >
+&copy; 2014 Yourdomain.com | <a href="http://www.binarytheme.com" target="_blank" style="color:rgb(86, 190, 230)"> Design by : binarytheme.com</a>
+           </div>
+           </div>
+       </div>
+         </div>
+    <!-- END FOOTER  SECTION -->  
+    <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
+    <!-- CORE JQUERY  -->
+    <script src="assets/js/jquery-1.11.1.js"></script>
+    <!-- BOOTSTRAP SCRIPTS  -->
+    <script src="assets/js/bootstrap.js"></script>
+    <!-- PRETTYPHOTO SCRIPTS -->
+    <script src="assets/js/jquery.prettyPhoto.js"></script>
+    <!-- PORTFOLIO FILTER PLUGIN  -->
+    <script src="assets/js/jquery.mixitup.min.js"></script>
+    <!-- CUSTOM SCRIPTS  -->
+    <script src="assets/js/custom.js"></script>
+
+</body>
+</html>
